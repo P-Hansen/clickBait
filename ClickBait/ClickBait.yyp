@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,12 +34,18 @@
   },
   "name":"ClickBait",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"init","path":"rooms/init/init.yy",},},
+    {"id":{"name":"rmBoat","path":"rooms/rmBoat/rmBoat.yy",},},
+    {"id":{"name":"rmMap","path":"rooms/rmMap/rmMap.yy",},},
+    {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"init","path":"rooms/init/init.yy",},},
+    {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
+    {"roomId":{"name":"rmBoat","path":"rooms/rmBoat/rmBoat.yy",},},
+    {"roomId":{"name":"rmMap","path":"rooms/rmMap/rmMap.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
