@@ -20,5 +20,6 @@
     {"name":"rmBoat","order":1,"path":"rooms/rmBoat/rmBoat.yy",},
     {"name":"rmMap","order":2,"path":"rooms/rmMap/rmMap.yy",},
     {"name":"rmMenu","order":3,"path":"rooms/rmMenu/rmMenu.yy",},
+    {"name":"sprSandWater","order":1,"path":"sprites/sprSandWater/sprSandWater.yy",},
   ],
 }

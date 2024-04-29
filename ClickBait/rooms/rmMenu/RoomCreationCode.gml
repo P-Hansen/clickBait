@@ -1,1 +1,1 @@
-room_goto(rmBoat);
+room_goto(rmMap);
