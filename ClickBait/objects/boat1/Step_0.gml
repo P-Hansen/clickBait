@@ -4,6 +4,27 @@ if(instance_position(endX, endY, self)){
 	speed = 0;
 }
 
+if(keyboard_check(vk_left)){
+	direction = 180;
+	image_angle = direction;
+	speed = 3;
+}
+if(keyboard_check(vk_right)){
+	direction = 0;
+	image_angle = direction;
+	speed = 3;
+}
+if(keyboard_check(vk_up)){
+	direction = 90;
+	image_angle = direction;
+	speed = 3;
+}
+if(keyboard_check(vk_down)){
+	direction = 270;
+	image_angle = direction;
+	speed = 3;
+}
+
 //preventing stacking
 var _colliding = place_meeting(x, y, [tileMap]);
 if _colliding {
