@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"boat1",
+  "%Name":"boat1Top",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":56,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -11,7 +11,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"boat1",
+  "name":"boat1Top",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprRowboat1",
-    "path":"sprites/sprRowboat1/sprRowboat1.yy",
+    "name":"sprRowboat1Top",
+    "path":"sprites/sprRowboat1Top/sprRowboat1Top.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -17,9 +17,15 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"boat1Side","order":2,"path":"objects/boat1Side/boat1Side.yy",},
+    {"name":"fishButton","order":1,"path":"objects/fishButton/fishButton.yy",},
+    {"name":"mapButton","order":3,"path":"objects/mapButton/mapButton.yy",},
     {"name":"rmBoat","order":1,"path":"rooms/rmBoat/rmBoat.yy",},
     {"name":"rmMap","order":2,"path":"rooms/rmMap/rmMap.yy",},
     {"name":"rmMenu","order":3,"path":"rooms/rmMenu/rmMenu.yy",},
+    {"name":"sprFishButton","order":2,"path":"sprites/sprFishButton/sprFishButton.yy",},
+    {"name":"sprMapButton","order":4,"path":"sprites/sprMapButton/sprMapButton.yy",},
+    {"name":"sprRowboat1Side","order":3,"path":"sprites/sprRowboat1Side/sprRowboat1Side.yy",},
     {"name":"sprSandWater","order":1,"path":"sprites/sprSandWater/sprSandWater.yy",},
   ],
 }
