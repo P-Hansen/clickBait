@@ -43,6 +43,7 @@
     {"id":{"name":"rmMap","path":"rooms/rmMap/rmMap.yy",},},
     {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"id":{"name":"sprFishButton","path":"sprites/sprFishButton/sprFishButton.yy",},},
+    {"id":{"name":"sprSidebar","path":"sprites/sprSidebar/sprSidebar.yy",},},
     {"id":{"name":"sprMapButton","path":"sprites/sprMapButton/sprMapButton.yy",},},
     {"id":{"name":"sprRowboat1Side","path":"sprites/sprRowboat1Side/sprRowboat1Side.yy",},},
     {"id":{"name":"sprRowboat1Top","path":"sprites/sprRowboat1Top/sprRowboat1Top.yy",},},

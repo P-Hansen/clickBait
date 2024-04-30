@@ -24,6 +24,7 @@
     {"name":"rmMap","order":2,"path":"rooms/rmMap/rmMap.yy",},
     {"name":"rmMenu","order":3,"path":"rooms/rmMenu/rmMenu.yy",},
     {"name":"sprFishButton","order":2,"path":"sprites/sprFishButton/sprFishButton.yy",},
+    {"name":"sprSidebar","order":5,"path":"sprites/sprSidebar/sprSidebar.yy",},
     {"name":"sprMapButton","order":4,"path":"sprites/sprMapButton/sprMapButton.yy",},
     {"name":"sprRowboat1Side","order":3,"path":"sprites/sprRowboat1Side/sprRowboat1Side.yy",},
     {"name":"sprSandWater","order":1,"path":"sprites/sprSandWater/sprSandWater.yy",},
