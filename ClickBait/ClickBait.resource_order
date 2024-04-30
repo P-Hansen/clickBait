@@ -18,9 +18,11 @@
   ],
   "ResourceOrderSettings":[
     {"name":"boat1Side","order":2,"path":"objects/boat1Side/boat1Side.yy",},
+    {"name":"fish1","order":5,"path":"objects/fish1/fish1.yy",},
     {"name":"fishButton","order":1,"path":"objects/fishButton/fishButton.yy",},
     {"name":"mapButton","order":3,"path":"objects/mapButton/mapButton.yy",},
-    {"name":"fish1","order":5,"path":"objects/fish1/fish1.yy",},
+    {"name":"number","order":6,"path":"objects/number/number.yy",},
+    {"name":"moneyController","order":7,"path":"objects/moneyController/moneyController.yy",},
     {"name":"rod1","order":4,"path":"objects/rod1/rod1.yy",},
     {"name":"rmBoat","order":1,"path":"rooms/rmBoat/rmBoat.yy",},
     {"name":"rmMap","order":2,"path":"rooms/rmMap/rmMap.yy",},
