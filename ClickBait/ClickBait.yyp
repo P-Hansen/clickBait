@@ -38,6 +38,7 @@
     {"id":{"name":"boat1Top","path":"objects/boat1Top/boat1Top.yy",},},
     {"id":{"name":"fishButton","path":"objects/fishButton/fishButton.yy",},},
     {"id":{"name":"mapButton","path":"objects/mapButton/mapButton.yy",},},
+    {"id":{"name":"fish1","path":"objects/fish1/fish1.yy",},},
     {"id":{"name":"rod1","path":"objects/rod1/rod1.yy",},},
     {"id":{"name":"init","path":"rooms/init/init.yy",},},
     {"id":{"name":"rmBoat","path":"rooms/rmBoat/rmBoat.yy",},},
