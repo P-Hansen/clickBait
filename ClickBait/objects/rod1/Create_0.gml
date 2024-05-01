@@ -1,9 +1,11 @@
 /// @description Insert description here
 
-
+fish = noone;
 function catchFish(){
 	if(image_angle <= 0){
 		image_angle += 45;
-		instance_create_depth(x+140, y+10, depth, fish1);
+		fishing(x, y);
 	}
 }
+
+alarm[1] = room_speed*3;
