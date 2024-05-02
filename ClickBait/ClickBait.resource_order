@@ -27,6 +27,7 @@
     {"name":"mapButton","order":3,"path":"objects/mapButton/mapButton.yy",},
     {"name":"moneyController","order":7,"path":"objects/moneyController/moneyController.yy",},
     {"name":"number","order":6,"path":"objects/number/number.yy",},
+    {"name":"trash","order":12,"path":"objects/trash/trash.yy",},
     {"name":"rod1","order":4,"path":"objects/rod1/rod1.yy",},
     {"name":"rmBoat","order":1,"path":"rooms/rmBoat/rmBoat.yy",},
     {"name":"rmMap","order":2,"path":"rooms/rmMap/rmMap.yy",},
@@ -43,5 +44,6 @@
     {"name":"sprRowboat1Side","order":3,"path":"sprites/sprRowboat1Side/sprRowboat1Side.yy",},
     {"name":"sprSandWater","order":1,"path":"sprites/sprSandWater/sprSandWater.yy",},
     {"name":"sprSidebar","order":5,"path":"sprites/sprSidebar/sprSidebar.yy",},
+    {"name":"sprTrash","order":13,"path":"sprites/sprTrash/sprTrash.yy",},
   ],
 }

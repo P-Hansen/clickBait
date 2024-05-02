@@ -7,12 +7,15 @@ global.fish4Money = 0;
 global.fish5Money = 0;
 
 global.water = [fish1, fish2, fish3, fish4, fish5];
+global.fishOdds = [50, 30, 14, 4, 2];
 
 global.fish1Odds = 50;
 global.fish2Odds = 30;
 global.fish3Odds = 14;
 global.fish4Odds = 4;
 global.fish5Odds = 2;
+
+global.trash = 100;
 
 global.autoFishSpeed = room_speed*2;
 
