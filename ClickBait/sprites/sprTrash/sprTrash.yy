@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"sprTrash",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":13,
   "bbox_left":0,
   "bbox_right":12,

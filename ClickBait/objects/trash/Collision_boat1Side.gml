@@ -1,9 +1,6 @@
 /// @description Insert description here
 
-if(turn == true){
-	direction += 4.5;
-}
-
-if(x < -20){
+if(caught == true){
+	global.trash -= 1;
 	instance_destroy(self);
 }

@@ -9,3 +9,5 @@ image_yscale = scale;
 image_angle = irandom_range(0, 360);
 direction = 180;
 speed = random_range(0.1, 2);
+turn = false;
+caught = false;
