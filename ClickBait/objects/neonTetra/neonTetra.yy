@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"fish2",
+  "%Name":"neonTetra",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"fish2",
+  "name":"neonTetra",
   "overriddenProperties":[],
   "parent":{
-    "name":"openWater",
-    "path":"folders/Objects/openWater.yy",
+    "name":"shallows",
+    "path":"folders/Objects/shallows.yy",
   },
   "parentObjectId":{
     "name":"fish1",
@@ -34,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprFish2",
-    "path":"sprites/sprFish2/sprFish2.yy",
+    "name":"sprNeonTetra",
+    "path":"sprites/sprNeonTetra/sprNeonTetra.yy",
   },
   "spriteMaskId":null,
   "visible":true,

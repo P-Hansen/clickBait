@@ -1,21 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"fish2",
+  "%Name":"openWater",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"boat1Top","path":"objects/boat1Top/boat1Top.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"fish2",
+  "name":"openWater",
   "overriddenProperties":[],
   "parent":{
     "name":"openWater",
     "path":"folders/Objects/openWater.yy",
   },
-  "parentObjectId":{
-    "name":"fish1",
-    "path":"objects/fish1/fish1.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -34,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprFish2",
-    "path":"sprites/sprFish2/sprFish2.yy",
+    "name":"sprOpenWater",
+    "path":"sprites/sprOpenWater/sprOpenWater.yy",
   },
   "spriteMaskId":null,
   "visible":true,

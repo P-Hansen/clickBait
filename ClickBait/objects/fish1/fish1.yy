@@ -12,8 +12,8 @@
   "name":"fish1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"openWater",
+    "path":"folders/Objects/openWater.yy",
   },
   "parentObjectId":null,
   "persistent":false,
