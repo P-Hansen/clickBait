@@ -8,7 +8,7 @@ x += 10;
 direction = 120;
 speed = 10;
 turn = false;
-value = 12;
+value = 1;
 numberColour = c_red;
 numberSize = 2.5;
 

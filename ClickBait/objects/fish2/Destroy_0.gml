@@ -5,4 +5,4 @@ num.num = value;
 num.numColour = numberColour;
 num.size = numberSize;
 
-global.fish1Money += value;
+global.fish2Money += value;

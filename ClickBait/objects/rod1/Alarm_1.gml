@@ -1,4 +1,4 @@
 /// @description auto catch
 catchFish();
 
-alarm[1] = room_speed*3;
+alarm[1] = global.autoFishSpeed;

@@ -7,7 +7,7 @@ image_yscale = scale;
 direction = 120;
 speed = 10;
 turn = false;
-value = 2;
+value = 1;
 numberColour = c_yellow;
 numberSize = 1.5;
 

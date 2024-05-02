@@ -4,8 +4,8 @@ fish = noone;
 function catchFish(){
 	if(image_angle <= 0){
 		image_angle += 45;
-		fishing(x, y);
 	}
+	fishing(x, y);
 }
 
-alarm[1] = room_speed*3;
+alarm[1] = global.autoFishSpeed;

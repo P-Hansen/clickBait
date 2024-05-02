@@ -8,7 +8,7 @@ x += 10;
 direction = 120;
 speed = 10;
 turn = false;
-value = 30;
+value = 1;
 numberColour = c_purple;
 numberSize = 3;
 
