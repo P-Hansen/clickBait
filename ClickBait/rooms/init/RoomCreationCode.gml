@@ -1,3 +1,4 @@
+draw_set_font(fontPixel);
 
 global.money = 0;
 global.fish1Money = 0;
