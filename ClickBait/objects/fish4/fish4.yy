@@ -33,10 +33,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprFish4",
-    "path":"sprites/sprFish4/sprFish4.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
