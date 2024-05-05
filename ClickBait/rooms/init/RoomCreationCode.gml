@@ -1,3 +1,4 @@
+randomize();
 draw_set_font(fontPixel);
 
 global.money = 0;
