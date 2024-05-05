@@ -2,9 +2,9 @@
 
 yStart = random(1000);
 xStart = random(1000);
+inc = 0.15;
 
-inc = 0.1;
-
+//places tiles based on perlin noise
 X = xStart;
 for(var _x = 0; _x < room_width; _x += 32){
 	var Y = yStart;
@@ -12,7 +12,9 @@ for(var _x = 0; _x < room_width; _x += 32){
 		
 		var _val = perlin_noise(X, Y);
 		
-		if(_val <= 0.000001){
+		if(_val <= -0.3){
+			instance_create_layer(_x, _y, layer, grass);
+		} else if(_val <= -0.1){
 			instance_create_layer(_x, _y, layer, sand);
 		} else if (_val <= 0.05){
 			instance_create_layer(_x, _y, layer, shallows);
@@ -30,7 +32,7 @@ for(var _x = 0; _x < room_width; _x += 32){
 	}
 	X += inc;
 }
-
+/*
 //sand edge eater
 with(sand){
 	function tileCheck(newTile){
@@ -59,10 +61,10 @@ with(sand){
 	tileCheck(tile);
 
 }
-
 with(sand){
 	if(destroyFlag == true){
 		instance_create_layer(x, y, layer, shallows);
 		instance_destroy(self);
 	}
 }
+*/
