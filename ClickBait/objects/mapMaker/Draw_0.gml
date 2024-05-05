@@ -1,5 +1,6 @@
 /// @description Insert description here
 
+/*
 X = xStart;
 for(var _x = 0; _x < room_width; _x += 1){
 	var Y = yStart;
@@ -16,3 +17,4 @@ for(var _x = 0; _x < room_width; _x += 1){
 	}
 	X += inc;
 }
+*/
