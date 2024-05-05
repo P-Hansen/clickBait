@@ -2,13 +2,14 @@
 
 yStart = random(1000);
 xStart = random(1000);
-inc = 0.15;
+inc = 0.06;
+TILESIZE = 16;
 
 //places tiles based on perlin noise
 X = xStart;
-for(var _x = 0; _x < room_width; _x += 32){
+for(var _x = 0; _x < room_width; _x += TILESIZE){
 	var Y = yStart;
-	for(var _y = 0; _y < room_height; _y += 32){
+	for(var _y = 0; _y < room_height; _y += TILESIZE){
 		
 		var _val = perlin_noise(X, Y);
 		
