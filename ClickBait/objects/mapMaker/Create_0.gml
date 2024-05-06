@@ -13,7 +13,7 @@ for(var _x = 0; _x < room_width; _x += TILESIZE){
 		
 		var _val = perlin_noise(X, Y);
 		
-		if(_val <= -0.3){
+		if(_val <= -0.25){
 			instance_create_layer(_x, _y, layer, grass);
 		} else if(_val <= -0.1){
 			instance_create_layer(_x, _y, layer, sand);
@@ -68,4 +68,11 @@ with(sand){
 		instance_destroy(self);
 	}
 }
+*/
+/*
+var layerId = layer_get_id("Tiles_1");
+var tilemap = layer_tilemap_create(layerId, x, y, TileSet2, 16, 16);
+var tileId = tilemap_get_at_pixel(tilemap, 1, 1);
+show_debug_message(tileId);
+tilemap_set_at_pixel(tilemap, tileId, 2, 2);
 */
