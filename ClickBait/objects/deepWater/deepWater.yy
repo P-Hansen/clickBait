@@ -11,7 +11,10 @@
     "name":"deepWater",
     "path":"folders/Objects/deepWater.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"openWater",
+    "path":"objects/openWater/openWater.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

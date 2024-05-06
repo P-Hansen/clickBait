@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"pool",
+  "%Name":"depthsWater",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"pool",
+  "name":"depthsWater",
   "overriddenProperties":[],
   "parent":{
-    "name":"pool",
-    "path":"folders/Objects/pool.yy",
+    "name":"depths",
+    "path":"folders/Objects/depths.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"openWater",
+    "path":"objects/openWater/openWater.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPool",
-    "path":"sprites/sprPool/sprPool.yy",
+    "name":"sprDeepDeepWater",
+    "path":"sprites/sprDeepDeepWater/sprDeepDeepWater.yy",
   },
   "spriteMaskId":null,
   "visible":true,

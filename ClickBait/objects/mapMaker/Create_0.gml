@@ -22,11 +22,11 @@ for(var _x = 0; _x < room_width; _x += TILESIZE){
 		} else if (_val <= 0.4){
 			instance_create_layer(_x, _y, layer, openWater);
 		} else if (_val <= 0.5){
-			instance_create_layer(_x, _y, layer, pool);
+			instance_create_layer(_x, _y, layer, middleDepth);
 		} else if (_val <= 0.7){
 			instance_create_layer(_x, _y, layer, deepWater);
 		} else {
-			instance_create_layer(_x, _y, layer, deepDeepWater);
+			instance_create_layer(_x, _y, layer, depthsWater);
 		}
 		
 		Y += inc;
