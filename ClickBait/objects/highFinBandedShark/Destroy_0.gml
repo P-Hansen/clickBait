@@ -5,4 +5,4 @@ num.num = value;
 num.numColour = numberColour;
 num.size = numberSize;
 
-global.weedsMoney += value;
+global.highFunBandedSharkMoney += value;
