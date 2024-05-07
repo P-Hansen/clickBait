@@ -34,6 +34,43 @@ for(var _x = 0; _x < room_width; _x += TILESIZE){
 	X += inc;
 }
 /*
+//finding single tiles
+with(openWater){
+	function tileCheck(newTile){
+		if((aloneFlag == true) and (newTile.object_index == object_index)){
+			aloneFlag = false;
+		}
+	}
+	
+	//top row
+	var tile = instance_nearest(x-8, y-8, openWater);
+	tileCheck(tile);
+	var tile = instance_nearest(x, y-8, openWater);
+	tileCheck(tile);
+	var tile = instance_nearest(x+16+8, y-8, openWater);
+	tileCheck(tile);
+	//middle row
+	var tile = instance_nearest(x-8, y, openWater);
+	tileCheck(tile);
+	var tile = instance_nearest(x+16+8, y, openWater);
+	tileCheck(tile);
+	//bottom row
+	var tile = instance_nearest(x-8, y+16+8, openWater);
+	tileCheck(tile);
+	var tile = instance_nearest(x, y+16+8, openWater);
+	tileCheck(tile);
+	var tile = instance_nearest(x+16+8, y+16+8, openWater);
+	tileCheck(tile);
+}
+
+with(openWater){
+	if(aloneFlag == true){
+		instance_create_layer(x, y, layer, mysteriousWaters);
+		instance_destroy(self);
+	}
+}
+*/
+/*
 //sand edge eater
 with(sand){
 	function tileCheck(newTile){

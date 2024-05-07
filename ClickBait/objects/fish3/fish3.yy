@@ -33,7 +33,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprBitterling",
+    "path":"sprites/sprBitterling/sprBitterling.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

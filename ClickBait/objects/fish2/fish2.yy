@@ -33,7 +33,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprBuleGill",
+    "path":"sprites/sprBuleGill/sprBuleGill.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

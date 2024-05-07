@@ -33,7 +33,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprGoldfish",
+    "path":"sprites/sprGoldfish/sprGoldfish.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

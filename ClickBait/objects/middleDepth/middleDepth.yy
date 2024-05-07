@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPool",
-    "path":"sprites/sprPool/sprPool.yy",
+    "name":"sprMidDepth",
+    "path":"sprites/sprMidDepth/sprMidDepth.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprDeepDeepWater",
-    "path":"sprites/sprDeepDeepWater/sprDeepDeepWater.yy",
+    "name":"sprDepths",
+    "path":"sprites/sprDepths/sprDepths.yy",
   },
   "spriteMaskId":null,
   "visible":true,
