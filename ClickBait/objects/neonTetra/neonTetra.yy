@@ -8,8 +8,8 @@
   "name":"neonTetra",
   "overriddenProperties":[],
   "parent":{
-    "name":"shallows",
-    "path":"folders/Objects/shallows.yy",
+    "name":"mysteriousWaters",
+    "path":"folders/Objects/mysteriousWaters.yy",
   },
   "parentObjectId":{
     "name":"fishClass",

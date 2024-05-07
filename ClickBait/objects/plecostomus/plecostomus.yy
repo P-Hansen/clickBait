@@ -8,8 +8,8 @@
   "name":"plecostomus",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"depths",
+    "path":"folders/Objects/depths.yy",
   },
   "parentObjectId":{
     "name":"fishClass",

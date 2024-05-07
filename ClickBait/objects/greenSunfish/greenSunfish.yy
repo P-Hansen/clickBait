@@ -8,8 +8,8 @@
   "name":"greenSunfish",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"openWater",
+    "path":"folders/Objects/openWater.yy",
   },
   "parentObjectId":{
     "name":"fishClass",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprCatfish",
-    "path":"sprites/sprCatfish/sprCatfish.yy",
+    "name":"sprGreenSunfish",
+    "path":"sprites/sprGreenSunfish/sprGreenSunfish.yy",
   },
   "spriteMaskId":null,
   "visible":true,

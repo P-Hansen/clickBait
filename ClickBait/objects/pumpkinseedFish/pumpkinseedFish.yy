@@ -8,8 +8,8 @@
   "name":"pumpkinseedFish",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"deepWater",
+    "path":"folders/Objects/deepWater.yy",
   },
   "parentObjectId":{
     "name":"fishClass",

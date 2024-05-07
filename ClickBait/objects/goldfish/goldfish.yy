@@ -8,8 +8,8 @@
   "name":"goldfish",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"mysteriousWaters",
+    "path":"folders/Objects/mysteriousWaters.yy",
   },
   "parentObjectId":{
     "name":"fishClass",

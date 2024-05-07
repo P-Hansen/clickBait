@@ -8,8 +8,8 @@
   "name":"goby",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"middleDepth",
+    "path":"folders/Objects/middleDepth.yy",
   },
   "parentObjectId":{
     "name":"fishClass",

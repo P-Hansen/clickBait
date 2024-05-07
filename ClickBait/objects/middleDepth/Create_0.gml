@@ -1,6 +1,6 @@
 /// @description Insert description here
 name = "Middle Depth";
-waterOdds = [fish1, fish2, fish3, fish4, fish5];
-fishOdds = [50, 30, 14, 4, 2];
+waterOdds = [goby, trout, walleye, tilapia, largemouthBass];
+fishOdds = [100, 0, 0, 0, 0];
 aloneFlag = true;
 colourHex = #3861B2;

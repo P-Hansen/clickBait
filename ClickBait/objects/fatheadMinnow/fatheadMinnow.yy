@@ -8,8 +8,8 @@
   "name":"fatheadMinnow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"shallows",
+    "path":"folders/Objects/shallows.yy",
   },
   "parentObjectId":{
     "name":"fishClass",
