@@ -10,7 +10,7 @@ global.fish5Money = 0;
 
 global.water = [];
 global.fishOdds = [50, 30, 14, 4, 2];
-global.waterColour = "FFFFFF"; //white
+global.waterColour = #FFFFFF; //white
 
 global.fish1Odds = 50;
 global.fish2Odds = 30;

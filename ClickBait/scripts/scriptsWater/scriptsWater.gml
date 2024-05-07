@@ -18,6 +18,26 @@ function fishing(_x, _y){
 	return;
 }
 
+function mysteryPool(_x, _y){
+	//var oldTile = instance_nearest(_x, _y, openWater);
+	//var centerTile = instance_create_layer(oldTile.x, oldTile.y, layer, mysteriousWaters);
+	//instance_destroy(oldTile);
+	xArray = [];
+	yArray = [];
+	
+	var roll = irandom_range(15, 30);
+	for(var i = 0; i < roll; i++){
+		var oldTile = instance_nearest(_x, _y, openWater);
+		array_push(xArray, oldTile.x);
+		array_push(yArray, oldTile.y);
+		instance_destroy(oldTile);
+	}
+	for(var i = 0; i < roll; i++){
+		instance_create_layer(xArray[i], yArray[i], layer, mysteriousWaters);
+	}
+	
+}
+
 function perlin_noise(_x, _y = 100.213, _z = 450.4215) {
 	
 	#region //doubled perm table

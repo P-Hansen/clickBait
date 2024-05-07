@@ -33,6 +33,11 @@ for(var _x = 0; _x < room_width; _x += TILESIZE){
 	}
 	X += inc;
 }
+
+var rollx = irandom_range(0, room_width);
+var rolly = irandom_range(0, room_height);
+mysteryPool(rollx, rolly);
+
 /*
 //finding single tiles
 with(openWater){
@@ -70,42 +75,7 @@ with(openWater){
 	}
 }
 */
-/*
-//sand edge eater
-with(sand){
-	function tileCheck(newTile){
-		if(newTile.object_index != sand){
-			destroyFlag = true;
-		}
-	}
-	//top row
-	var tile = instance_nearest(x-16, y-16, openWater);
-	tileCheck(tile);
-	var tile = instance_nearest(x, y-16, openWater);
-	tileCheck(tile);
-	var tile = instance_nearest(x+32+16, y-16, openWater);
-	tileCheck(tile);
-	//middle row
-	var tile = instance_nearest(x-16, y, openWater);
-	tileCheck(tile);
-	var tile = instance_nearest(x+32+16, y, openWater);
-	tileCheck(tile);
-	//bottom row
-	var tile = instance_nearest(x-16, y+32+16, openWater);
-	tileCheck(tile);
-	var tile = instance_nearest(x, y+32+16, openWater);
-	tileCheck(tile);
-	var tile = instance_nearest(x+32+16, y+32+16, openWater);
-	tileCheck(tile);
 
-}
-with(sand){
-	if(destroyFlag == true){
-		instance_create_layer(x, y, layer, shallows);
-		instance_destroy(self);
-	}
-}
-*/
 /*
 var layerId = layer_get_id("Tiles_1");
 var tilemap = layer_tilemap_create(layerId, x, y, TileSet2, 16, 16);
