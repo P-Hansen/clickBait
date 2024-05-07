@@ -12,8 +12,8 @@
     "path":"folders/Objects/shallows.yy",
   },
   "parentObjectId":{
-    "name":"fish1",
-    "path":"objects/fish1/fish1.yy",
+    "name":"fishClass",
+    "path":"objects/fishClass/fishClass.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

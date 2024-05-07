@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"neonTetra",
+  "%Name":"bitterling",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"neonTetra",
+  "name":"bitterling",
   "overriddenProperties":[],
   "parent":{
-    "name":"shallows",
-    "path":"folders/Objects/shallows.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"fishClass",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprNeonTetra",
-    "path":"sprites/sprNeonTetra/sprNeonTetra.yy",
+    "name":"sprBitterling",
+    "path":"sprites/sprBitterling/sprBitterling.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -13,8 +13,8 @@
     "path":"folders/Objects/openWater.yy",
   },
   "parentObjectId":{
-    "name":"fish1",
-    "path":"objects/fish1/fish1.yy",
+    "name":"fishClass",
+    "path":"objects/fishClass/fishClass.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprBuleGill",
-    "path":"sprites/sprBuleGill/sprBuleGill.yy",
+    "name":"sprBlueGill",
+    "path":"sprites/sprBlueGill/sprBlueGill.yy",
   },
   "spriteMaskId":null,
   "visible":true,
