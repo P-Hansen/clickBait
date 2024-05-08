@@ -1,32 +1,32 @@
 /// @description Insert description here
 
-if(global.fish1Money > 0){
-	fish1Seen = 0;
-}
-if(global.fish2Money > 0){
-	fish2Seen = 0;
-}
-if(global.fish3Money > 0){
-	fish3Seen = 0;
-}
-if(global.fish4Money > 0){
-	fish4Seen = 0;
-}
-if(global.fish5Money > 0){
-	fish5Seen = 0;
-}
-
 //trash total
 draw_set_color(c_black);
 if(global.trash > 0) {
-	draw_text(room_width-100, 20, string(global.trash) + " trash");
+	draw_text(room_width-115, 20, string(global.trash) + " trash");
 }
 draw_set_color(c_white)
+
+moneyArray = [global.stickMoney, global.weedsMoney, global.frogMoney, global.fatheadMinnowMoney, global.catfishMoney,
+global.eelMoney, global.greenSunfishMoney, global.highFunBandedSharkMoney, global.redShinerMoney, global.smeltMoney,
+global.gobyMoney, global.largmouthBassMoney, global.tilapiaMoney, global.troutMoney, global.walleyeMoney,
+global.crucianCarpMoney, global.gizzardShadMoney, global.goldenTenchMoney, global.kingSalmonMoney, global.pumpkinseedFishMoney,
+global.blackBassMoney, global.crappieMoney, global.daceMoney, global.loachMoney, global.plecostomusMoney,
+global.bluegillMoney, global.goldfishMoney, global.neonTetraMoney, global.paradiseFishMoney, global.piranhaMoney];
+
+for(var i = 0; i < array_length(moneyArray); i++){
+	if(moneyArray[i] > 0){
+		var offset = i*20;
+		draw_sprite(spriteArray[i], 0, room_width-75, 43 + offset);
+		draw_text(room_width-50, 40 + offset, string(moneyArray[i]));
+	}
+}
 
 var oldFont = draw_get_font();
 draw_set_font(fontReward);
 
 //showing catch numbers
+/*
 draw_sprite_ext(object_get_sprite(global.water[0]), fish1Seen, 50, 20, 4, 4, 0, c_white, 1);
 draw_text(100, 20, global.fish1Money);
 
@@ -41,6 +41,7 @@ draw_text(100, 170, string(global.fish4Money));
 
 draw_sprite_ext(object_get_sprite(global.water[4]), fish5Seen, 50, 220, 4, 4, 0, c_white, 1);
 draw_text(100, 220, string(global.fish5Money));
+*/
 
 //show catch odds
 var _y = room_height-120;

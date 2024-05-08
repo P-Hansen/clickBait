@@ -45,7 +45,7 @@ global.neonTetraMoney = 0;
 global.paradiseFishMoney = 0;
 global.piranhaMoney = 0;
 
-global.water = [];
+global.water = [stick, weeds, frog, fatheadMinnow, catfish];
 global.fishOdds = [50, 30, 14, 4, 2];
 global.waterColour = #FFFFFF; //white
 
