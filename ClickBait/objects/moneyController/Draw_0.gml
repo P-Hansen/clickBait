@@ -16,8 +16,8 @@ global.bluegillMoney, global.goldfishMoney, global.neonTetraMoney, global.paradi
 
 for(var i = 0; i < array_length(moneyArray); i++){
 	if(moneyArray[i] > 0){
-		var offset = i*20;
-		draw_sprite(spriteArray[i], 0, room_width-75, 43 + offset);
+		var offset = i*23;
+		draw_sprite_ext(spriteArray[i], 0, room_width-75, 43 + offset, 1.5, 1.5, 0, c_white, 1);
 		draw_text(room_width-50, 40 + offset, string(moneyArray[i]));
 	}
 }
