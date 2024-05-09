@@ -1,5 +1,7 @@
 randomize();
 draw_set_font(fontPixel);
+object = importJson("fishData.txt");
+
 
 global.money = 0;
 
@@ -48,12 +50,6 @@ global.piranhaMoney = 0;
 global.water = [stick, weeds, frog, fatheadMinnow, catfish];
 global.fishOdds = [50, 30, 14, 4, 2];
 global.waterColour = #FFFFFF; //white
-
-global.fish1Odds = 50;
-global.fish2Odds = 30;
-global.fish3Odds = 14;
-global.fish4Odds = 4;
-global.fish5Odds = 2;
 
 global.trash = 100;
 
