@@ -5,4 +5,4 @@ num.num = value;
 num.numColour = numberColour;
 num.size = numberSize;
 
-global.gobyMoney += value;
+data.money += value;
