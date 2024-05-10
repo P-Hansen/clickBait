@@ -1,7 +1,7 @@
 randomize();
 draw_set_font(fontPixel);
-object = importJson("fishData.txt");
-
+global.dataArray = importJson("fishData.txt");
+show_debug_message(global.dataArray);
 
 global.money = 0;
 

@@ -1,5 +1,5 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+
+//importing Json for fish data
 function importJson(fileName){
 	if(file_exists(fileName)){
 		jsonString = "";
@@ -9,8 +9,8 @@ function importJson(fileName){
 			file_text_readln(file);
 		}
 		file_text_close(file);
-		show_debug_message(jsonString);
-		return json_decode(jsonString);
+		//show_debug_message(jsonString);
+		return json_parse(jsonString);
 		
 	}
 	return undefined;
