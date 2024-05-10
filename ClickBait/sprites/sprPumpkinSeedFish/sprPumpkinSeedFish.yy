@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"sprPumpkinSeedFish",
+  "%Name":"sprPumpkinseedFish",
   "bboxMode":0,
   "bbox_bottom":15,
   "bbox_left":0,
@@ -22,7 +22,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"17136251-521d-482c-b437-6640e320d1ef","blendMode":0,"displayName":"default","isLocked":false,"name":"17136251-521d-482c-b437-6640e320d1ef","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sprPumpkinSeedFish",
+  "name":"sprPumpkinseedFish",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"sprPumpkinSeedFish",
+    "%Name":"sprPumpkinseedFish",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sprPumpkinSeedFish",
+    "name":"sprPumpkinseedFish",
     "playback":1,
     "playbackSpeed":0.0,
     "playbackSpeedType":0,
@@ -70,10 +70,10 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"da282ebe-9f03-4d4c-8f08-c13713cbcdba","path":"sprites/sprPumpkinSeedFish/sprPumpkinSeedFish.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"da282ebe-9f03-4d4c-8f08-c13713cbcdba","path":"sprites/sprPumpkinseedFish/sprPumpkinseedFish.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5dad0451-35d4-4428-bdb0-d3905e0727f7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0b30092d-0e78-44dd-a744-3cab1c9f60ea","path":"sprites/sprPumpkinSeedFish/sprPumpkinSeedFish.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0b30092d-0e78-44dd-a744-3cab1c9f60ea","path":"sprites/sprPumpkinseedFish/sprPumpkinseedFish.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"188b17e8-cbb1-426c-9df0-90e6c6dae525","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

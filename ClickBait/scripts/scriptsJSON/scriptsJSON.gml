@@ -25,3 +25,14 @@ function findObject(newId){
 	}
 	return noone;
 }
+
+//find fishIDs from water type
+function fishFromWater(waterName){
+	newArray = [];
+	for(var i = 0; i < array_length(global.dataArray); i++){
+		if(global.dataArray[i].water == waterName){
+			array_push(newArray, global.dataArray[i].fishid);
+		}
+	}
+	return newArray;
+}

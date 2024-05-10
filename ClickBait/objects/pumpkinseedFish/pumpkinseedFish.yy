@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPumpkinSeedFish",
-    "path":"sprites/sprPumpkinSeedFish/sprPumpkinSeedFish.yy",
+    "name":"sprPumpkinseedFish",
+    "path":"sprites/sprPumpkinseedFish/sprPumpkinseedFish.yy",
   },
   "spriteMaskId":null,
   "visible":true,

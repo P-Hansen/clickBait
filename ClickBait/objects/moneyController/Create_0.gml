@@ -9,7 +9,7 @@ fish5Seen = 0;
 spriteArray = [sprStick, sprSeaweed, sprFrog, sprFatheadMinnow, sprCatfish,
 sprEel, sprGreenSunfish, sprHighFinBandedShark, sprRedShiner, sprSmelt,
 sprGoby, sprLargemouthBass, sprTilapia, sprTrout, sprWalleye,
-sprCrucianCarp, sprGizzardShad, sprGoldenTench, sprKingSalmon, sprPumpkinSeedFish,
+sprCrucianCarp, sprGizzardShad, sprGoldenTench, sprKingSalmon, sprPumpkinseedFish,
 sprBlackBass, sprCrappie, sprDace, sprLoach, sprPlecostomus,
 sprBlueGill, sprGoldfish, sprNeonTetra, sprParadiseFish, sprPiranha];
 moneyArray = [];

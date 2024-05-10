@@ -3,6 +3,8 @@
 if(disabled == false and mouse_x > _x and mouse_x < width and mouse_y > _y and mouse_y < height){
 	colour = c_white;
 	alarm[1] = room_speed*0.15;
-	global.fishOdds[0] -= 1;
-	global.fishOdds[1] += 1;
+	var gobyObject = findObject(1);
+	var troutObject = findObject(2);
+	gobyObject.odds -= 1;
+	troutObject.odds += 1;
 }
