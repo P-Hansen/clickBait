@@ -54,6 +54,17 @@ draw_sprite_ext(object_get_sprite(global.water[4]), fish5Seen, 50, 220, 4, 4, 0,
 draw_text(100, 220, string(global.fish5Money));
 */
 
+startingX = 550;
+var _y = room_height-120;
+for(var i = 0; i < array_length(global.water); i++){
+	var fishObject = findObject(global.water[i]);
+	var offset = i*23;
+	var spr = asset_get_index(fishObject.sprite);
+	draw_sprite_ext(spr, fish1Seen, startingX, _y, 4, 4, 0, c_white, 1);
+	draw_text(startingX + 60, _y, string(fishObject.odds)+"%");
+	startingX += 170;
+}
+/*
 //show catch odds
 var _y = room_height-120;
 draw_sprite_ext(object_get_sprite(global.water[0]), fish1Seen, 550, _y, 4, 4, 0, c_white, 1);
@@ -70,5 +81,5 @@ draw_text(1120, _y, string( global.fishOdds[3])+"%");
 
 draw_sprite_ext(object_get_sprite(global.water[4]), fish5Seen, 1210, _y, 4, 4, 0, c_white, 1);
 draw_text(1270, _y, string( global.fishOdds[4])+"%");
-
+*/
 draw_set_font(oldFont);

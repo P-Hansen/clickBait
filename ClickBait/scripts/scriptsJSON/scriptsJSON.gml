@@ -19,7 +19,7 @@ function importJson(fileName){
 //finding fish object with ID
 function findObject(newId){
 	for(var i = 0; i < array_length(global.dataArray); i++){
-		if(global.dataArray[i].fishId == newId){
+		if(global.dataArray[i].fishid == newId){
 			return global.dataArray[i];
 		}
 	}
