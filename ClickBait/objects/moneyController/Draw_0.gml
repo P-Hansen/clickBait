@@ -24,6 +24,7 @@ for(var i = 0; i < array_length(moneyArray); i++){
 }
 */
 
+//showing all fish totals
 for(var i = 0; i < array_length(global.dataArray); i++){
 	if(global.dataArray[i].money > 0){
 		var offset = i*23;
@@ -54,6 +55,7 @@ draw_sprite_ext(object_get_sprite(global.water[4]), fish5Seen, 50, 220, 4, 4, 0,
 draw_text(100, 220, string(global.fish5Money));
 */
 
+//fish odds
 startingX = 550;
 var _y = room_height-120;
 for(var i = 0; i < array_length(global.water); i++){

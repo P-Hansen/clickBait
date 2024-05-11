@@ -4,7 +4,7 @@ scale = 5;
 image_xscale = scale;
 image_yscale = scale;
 
-data = findObject(1);
+data = findObject(11);
 
 direction = 120;
 speed = 10;
