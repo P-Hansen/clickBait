@@ -3,8 +3,9 @@
 scale = 4;
 image_xscale = scale;
 image_yscale = scale;
-
 image_index = irandom_range(0, 2);
+
+data = findObject(1);
 
 direction = 120;
 speed = 10;
