@@ -1,14 +1,15 @@
 /// @description Insert description here
 
 fish = noone;
-fishOdds = [];
-for(var i = 0; i < array_length(global.water); i++){
-	var object = findObject(global.water[i]);
-	var odds = object.odds;
-	array_push(fishOdds, odds);
-}
 
 function fishing(_x, _y){
+	var fishOdds = [];
+	for(var i = 0; i < array_length(global.water); i++){
+		var object = findObject(global.water[i]);
+		var odds = object.odds;
+		array_push(fishOdds, odds);
+	}
+	
 	var roll = irandom_range(1, 100);
 	
 	if(roll <= fishOdds[4]){
