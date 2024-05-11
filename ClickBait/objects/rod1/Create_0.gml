@@ -1,6 +1,41 @@
 /// @description Insert description here
 
 fish = noone;
+fishOdds = [];
+for(var i = 0; i < array_length(global.water); i++){
+	var object = findObject(global.water[i]);
+	var odds = object.odds;
+	array_push(fishOdds, odds);
+}
+
+function fishing(_x, _y){
+	var roll = irandom_range(1, 100);
+	
+	if(roll <= fishOdds[4]){
+		var object = findObject(global.water[4]);
+		var asset = asset_get_index(object.name);
+		instance_create_depth(_x+140, _y+10, depth, asset);
+	} else if (roll <=  fishOdds[4] +  fishOdds[3]){
+		var object = findObject(global.water[3]);
+		var asset = asset_get_index(object.name);
+		instance_create_depth(_x+140, _y+10, depth, asset);
+	} else if (roll <=  fishOdds[4] +  fishOdds[3] + fishOdds[2]){
+		var object = findObject(global.water[2]);
+		var asset = asset_get_index(object.name);
+		instance_create_depth(_x+140, _y+10, depth, asset);
+	} else if (roll <=  fishOdds[4] + fishOdds[3] + fishOdds[2] +  fishOdds[1]){
+		var object = findObject(global.water[1]);
+		var asset = asset_get_index(object.name);
+		instance_create_depth(_x+140, _y+10, depth, asset);
+	} else {
+		var object = findObject(global.water[0]);
+		var asset = asset_get_index(object.name);
+		instance_create_depth(_x+140, _y+10, depth, asset);	
+	}
+	
+	return;
+}
+
 function catchFish(){
 	if(image_angle <= 0){
 		image_angle += 45;

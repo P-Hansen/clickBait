@@ -1,5 +1,5 @@
 // Script assets have changed for v2.3.0 see
-
+/*
 function fishing(_x, _y){
 	var roll = irandom_range(1, 100);
 	
@@ -17,7 +17,7 @@ function fishing(_x, _y){
 	
 	return;
 }
-
+*/
 function mysteryPool(_x, _y){
 	//var oldTile = instance_nearest(_x, _y, openWater);
 	//var centerTile = instance_create_layer(oldTile.x, oldTile.y, layer, mysteriousWaters);
