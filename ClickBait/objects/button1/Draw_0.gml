@@ -1,7 +1,7 @@
 /// @description Insert description here
 
-width = x + string_width(text)+10;
-height = y + string_height(text)+10;
+width = x + string_width(cost)+10;
+height = y + string_height(cost)+10;
 _x = x - 10;
 _y = y - 5;
 
@@ -13,4 +13,4 @@ if(disabled == false){
 draw_set_halign(fa_right);
 draw_text(x-20, y, description);
 draw_set_halign(fa_left);
-draw_text(x, y, text);
+draw_text(x, y, cost);

@@ -1,8 +1,8 @@
 /// @description Insert description here
 
 num = instance_create_depth(x, y, depth, number);
-num.num = value;
+num.num = data.value;
 num.numColour = numberColour;
 num.size = numberSize;
 
-data.money += value;
+data.money += data.value;

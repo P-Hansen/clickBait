@@ -75,6 +75,7 @@
     {"name":"trash","order":7,"path":"objects/trash/trash.yy",},
     {"name":"trout","order":5,"path":"objects/trout/trout.yy",},
     {"name":"troutUpButton","order":6,"path":"objects/troutUpButton/troutUpButton.yy",},
+    {"name":"gobyValueUpButton","order":7,"path":"objects/gobyValueUpButton/gobyValueUpButton.yy",},
     {"name":"walleye","order":3,"path":"objects/walleye/walleye.yy",},
     {"name":"weeds","order":2,"path":"objects/weeds/weeds.yy",},
     {"name":"rmBoat","order":1,"path":"rooms/rmBoat/rmBoat.yy",},

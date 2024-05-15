@@ -100,6 +100,7 @@
     {"id":{"name":"trash","path":"objects/trash/trash.yy",},},
     {"id":{"name":"trout","path":"objects/trout/trout.yy",},},
     {"id":{"name":"troutUpButton","path":"objects/troutUpButton/troutUpButton.yy",},},
+    {"id":{"name":"gobyValueUpButton","path":"objects/gobyValueUpButton/gobyValueUpButton.yy",},},
     {"id":{"name":"walleye","path":"objects/walleye/walleye.yy",},},
     {"id":{"name":"weeds","path":"objects/weeds/weeds.yy",},},
     {"id":{"name":"init","path":"rooms/init/init.yy",},},

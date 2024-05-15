@@ -9,7 +9,6 @@ data = findObject(11);
 direction = 120;
 speed = 10;
 turn = false;
-value = 1;
 numberColour = c_white;
 numberSize = 1;
 
