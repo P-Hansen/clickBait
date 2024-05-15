@@ -34,8 +34,7 @@ for(var i = 0; i < array_length(global.dataArray); i++){
 	}
 }
 
-var oldFont = draw_get_font();
-draw_set_font(fontReward);
+
 
 //showing catch numbers
 /*
@@ -56,14 +55,18 @@ draw_text(100, 220, string(global.fish5Money));
 */
 
 //fish odds
-startingX = 550;
+startingX = 500;
 var _y = room_height-120;
 for(var i = 0; i < array_length(global.water); i++){
+	var oldFont = draw_get_font();
+	draw_set_font(fontReward);
 	var fishObject = findObject(global.water[i]);
 	var offset = i*23;
 	var spr = asset_get_index(fishObject.sprite);
 	draw_sprite_ext(spr, fish1Seen, startingX, _y, 4, 4, 0, c_white, 1);
 	draw_text(startingX + 60, _y, string(fishObject.odds)+"%");
+	draw_set_font(oldFont);
+	draw_text(startingX + 70, _y+40, "Value: " + string(fishObject.value));
 	startingX += 170;
 }
 /*
@@ -84,4 +87,3 @@ draw_text(1120, _y, string( global.fishOdds[3])+"%");
 draw_sprite_ext(object_get_sprite(global.water[4]), fish5Seen, 1210, _y, 4, 4, 0, c_white, 1);
 draw_text(1270, _y, string( global.fishOdds[4])+"%");
 */
-draw_set_font(oldFont);
