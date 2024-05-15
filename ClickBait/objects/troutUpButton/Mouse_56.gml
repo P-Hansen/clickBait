@@ -7,4 +7,6 @@ if(disabled == false and mouse_x > _x and mouse_x < width and mouse_y > _y and m
 	var troutObject = findObject(12);
 	gobyObject.odds -= 1;
 	troutObject.odds += 1;
+	text = fibonacci(count);
+	count++;
 }

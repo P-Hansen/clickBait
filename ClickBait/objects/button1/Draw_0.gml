@@ -10,4 +10,7 @@ if(disabled == false){
 } else {
 	draw_roundrect_color(_x, _y, width, height, c_ltgray, c_ltgray, false);
 }
+draw_set_halign(fa_right);
+draw_text(x-20, y, description);
+draw_set_halign(fa_left);
 draw_text(x, y, text);

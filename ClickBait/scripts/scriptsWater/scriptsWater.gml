@@ -18,6 +18,18 @@ function fishing(_x, _y){
 	return;
 }
 */
+function fibonacci(num){
+	var num1 = 0;
+	var num2 = 1;
+	
+	for(var i = 0; i <= num; i++){
+		var sum = num1 + num2;
+		num1 = num2;
+		num2 = sum;
+	}
+	return num2;
+}
+
 function mysteryPool(_x, _y){
 	//var oldTile = instance_nearest(_x, _y, openWater);
 	//var centerTile = instance_create_layer(oldTile.x, oldTile.y, layer, mysteriousWaters);
