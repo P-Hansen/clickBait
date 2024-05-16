@@ -38,7 +38,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"ClickBait",
   "resources":[
@@ -67,7 +67,6 @@
     {"id":{"name":"gizzardShad","path":"objects/gizzardShad/gizzardShad.yy",},},
     {"id":{"name":"goby","path":"objects/goby/goby.yy",},},
     {"id":{"name":"gobyValueUpButton","path":"objects/gobyValueUpButton/gobyValueUpButton.yy",},},
-    {"id":{"name":"troutValueUpButton","path":"objects/troutValueUpButton/troutValueUpButton.yy",},},
     {"id":{"name":"goldenTench","path":"objects/goldenTench/goldenTench.yy",},},
     {"id":{"name":"goldfish","path":"objects/goldfish/goldfish.yy",},},
     {"id":{"name":"grass","path":"objects/grass/grass.yy",},},
@@ -103,6 +102,7 @@
     {"id":{"name":"trash","path":"objects/trash/trash.yy",},},
     {"id":{"name":"trout","path":"objects/trout/trout.yy",},},
     {"id":{"name":"troutUpButton","path":"objects/troutUpButton/troutUpButton.yy",},},
+    {"id":{"name":"troutValueUpButton","path":"objects/troutValueUpButton/troutValueUpButton.yy",},},
     {"id":{"name":"walleye","path":"objects/walleye/walleye.yy",},},
     {"id":{"name":"weeds","path":"objects/weeds/weeds.yy",},},
     {"id":{"name":"init","path":"rooms/init/init.yy",},},

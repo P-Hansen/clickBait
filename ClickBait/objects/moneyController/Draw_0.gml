@@ -29,8 +29,8 @@ for(var i = 0; i < array_length(global.dataArray); i++){
 	if(global.dataArray[i].money > 0){
 		var offset = i*23;
 		var spr = asset_get_index(global.dataArray[i].sprite);
-		draw_sprite_ext(spr, 0, room_width-75, 43 + offset, 1.5, 1.5, 0, c_white, 1);
-		draw_text(room_width-50, 40 + offset, string(global.dataArray[i].money));
+		draw_sprite_ext(spr, 0, room_width-100, 43 + offset, 1.5, 1.5, 0, c_white, 1);
+		draw_text(room_width-75, 40 + offset, string(global.dataArray[i].money));
 	}
 }
 
