@@ -44,6 +44,8 @@
   "resources":[
     {"id":{"name":"fontPixel","path":"fonts/fontPixel/fontPixel.yy",},},
     {"id":{"name":"fontReward","path":"fonts/fontReward/fontReward.yy",},},
+    {"id":{"name":"bassOddsUpButton","path":"objects/bassOddsUpButton/bassOddsUpButton.yy",},},
+    {"id":{"name":"bassValueUpButton","path":"objects/bassValueUpButton/bassValueUpButton.yy",},},
     {"id":{"name":"bitterling","path":"objects/bitterling/bitterling.yy",},},
     {"id":{"name":"blackBass","path":"objects/blackBass/blackBass.yy",},},
     {"id":{"name":"bluegill","path":"objects/bluegill/bluegill.yy",},},
@@ -108,7 +110,9 @@
     {"id":{"name":"troutOddsUpButton","path":"objects/troutOddsUpButton/troutOddsUpButton.yy",},},
     {"id":{"name":"troutValueUpButton","path":"objects/troutValueUpButton/troutValueUpButton.yy",},},
     {"id":{"name":"walleye","path":"objects/walleye/walleye.yy",},},
+    {"id":{"name":"walleyeDiscountButton","path":"objects/walleyeDiscountButton/walleyeDiscountButton.yy",},},
     {"id":{"name":"walleyeOddsUpButton","path":"objects/walleyeOddsUpButton/walleyeOddsUpButton.yy",},},
+    {"id":{"name":"walleyeValueUpButton","path":"objects/walleyeValueUpButton/walleyeValueUpButton.yy",},},
     {"id":{"name":"weeds","path":"objects/weeds/weeds.yy",},},
     {"id":{"name":"init","path":"rooms/init/init.yy",},},
     {"id":{"name":"rmBoat","path":"rooms/rmBoat/rmBoat.yy",},},

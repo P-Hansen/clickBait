@@ -26,6 +26,8 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fontPixel","order":1,"path":"fonts/fontPixel/fontPixel.yy",},
+    {"name":"bassOddsUpButton","order":16,"path":"objects/bassOddsUpButton/bassOddsUpButton.yy",},
+    {"name":"bassValueUpButton","order":18,"path":"objects/bassValueUpButton/bassValueUpButton.yy",},
     {"name":"bitterling","order":18,"path":"objects/bitterling/bitterling.yy",},
     {"name":"blackBass","order":1,"path":"objects/blackBass/blackBass.yy",},
     {"name":"bluegill","order":5,"path":"objects/bluegill/bluegill.yy",},
@@ -83,7 +85,9 @@
     {"name":"troutOddsUpButton","order":6,"path":"objects/troutOddsUpButton/troutOddsUpButton.yy",},
     {"name":"troutValueUpButton","order":9,"path":"objects/troutValueUpButton/troutValueUpButton.yy",},
     {"name":"walleye","order":3,"path":"objects/walleye/walleye.yy",},
+    {"name":"walleyeDiscountButton","order":17,"path":"objects/walleyeDiscountButton/walleyeDiscountButton.yy",},
     {"name":"walleyeOddsUpButton","order":13,"path":"objects/walleyeOddsUpButton/walleyeOddsUpButton.yy",},
+    {"name":"walleyeValueUpButton","order":15,"path":"objects/walleyeValueUpButton/walleyeValueUpButton.yy",},
     {"name":"weeds","order":2,"path":"objects/weeds/weeds.yy",},
     {"name":"rmBoat","order":1,"path":"rooms/rmBoat/rmBoat.yy",},
     {"name":"rmMap","order":2,"path":"rooms/rmMap/rmMap.yy",},

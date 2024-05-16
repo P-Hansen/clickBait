@@ -10,7 +10,7 @@ direction = 120;
 speed = 10;
 turn = false;
 value = 1;
-numberColour = c_white;
+numberColour = #AE996C;
 numberSize = 1;
 
 alarm[1] = room_speed*0.2;
