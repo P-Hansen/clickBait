@@ -1,6 +1,8 @@
 /// @description Insert description here
 
-buttons = [gobyValueUpButton, troutUpButton, troutValueUpButton];
+buttons = [gobyValueUpButton, troutOddsUpButton,
+	troutValueUpButton, troutAutoFishUpButton, tilapiaOddsUpButton,
+	tilapiaValueUpButton, tilapiaValueMultiplyerButton, walleyeOddsUpButton];
 yOffset = 40;
 
 for(var i = 0; i < array_length(buttons); i++){

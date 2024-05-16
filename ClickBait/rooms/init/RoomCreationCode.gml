@@ -54,5 +54,6 @@ global.waterColour = #FFFFFF; //white
 global.trash = 100;
 
 global.autoFishSpeed = room_speed*2;
+global.valueMultiplyer = 1;
 
 room_goto(rmMenu);
