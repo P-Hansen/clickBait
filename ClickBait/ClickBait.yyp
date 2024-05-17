@@ -62,6 +62,7 @@
     {"id":{"name":"deepWater","path":"objects/deepWater/deepWater.yy",},},
     {"id":{"name":"depthsWater","path":"objects/depthsWater/depthsWater.yy",},},
     {"id":{"name":"dynamite","path":"objects/dynamite/dynamite.yy",},},
+    {"id":{"name":"dynamiteSpawner","path":"objects/dynamiteSpawner/dynamiteSpawner.yy",},},
     {"id":{"name":"eel","path":"objects/eel/eel.yy",},},
     {"id":{"name":"fatheadMinnow","path":"objects/fatheadMinnow/fatheadMinnow.yy",},},
     {"id":{"name":"fishButton","path":"objects/fishButton/fishButton.yy",},},

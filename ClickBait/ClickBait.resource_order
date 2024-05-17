@@ -41,6 +41,7 @@
     {"name":"crucianCarp","order":4,"path":"objects/crucianCarp/crucianCarp.yy",},
     {"name":"dace","order":5,"path":"objects/dace/dace.yy",},
     {"name":"dynamite","order":29,"path":"objects/dynamite/dynamite.yy",},
+    {"name":"dynamiteSpawner","order":30,"path":"objects/dynamiteSpawner/dynamiteSpawner.yy",},
     {"name":"eel","order":1,"path":"objects/eel/eel.yy",},
     {"name":"fatheadMinnow","order":7,"path":"objects/fatheadMinnow/fatheadMinnow.yy",},
     {"name":"fishButton","order":1,"path":"objects/fishButton/fishButton.yy",},
