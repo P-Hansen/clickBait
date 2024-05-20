@@ -140,6 +140,7 @@
     {"id":{"name":"sprDeepWater","path":"sprites/sprDeepWater/sprDeepWater.yy",},},
     {"id":{"name":"sprDepths","path":"sprites/sprDepths/sprDepths.yy",},},
     {"id":{"name":"sprDynamite","path":"sprites/sprDynamite/sprDynamite.yy",},},
+    {"id":{"name":"sprDynamitePack","path":"sprites/sprDynamitePack/sprDynamitePack.yy",},},
     {"id":{"name":"sprEel","path":"sprites/sprEel/sprEel.yy",},},
     {"id":{"name":"sprFatheadMinnow","path":"sprites/sprFatheadMinnow/sprFatheadMinnow.yy",},},
     {"id":{"name":"sprFishButton","path":"sprites/sprFishButton/sprFishButton.yy",},},

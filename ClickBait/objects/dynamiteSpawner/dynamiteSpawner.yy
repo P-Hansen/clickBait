@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprDynamitePack",
+    "path":"sprites/sprDynamitePack/sprDynamitePack.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

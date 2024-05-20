@@ -111,6 +111,7 @@
     {"name":"sprDeepWater","order":4,"path":"sprites/sprDeepWater/sprDeepWater.yy",},
     {"name":"sprDepths","order":5,"path":"sprites/sprDepths/sprDepths.yy",},
     {"name":"sprDynamite","order":56,"path":"sprites/sprDynamite/sprDynamite.yy",},
+    {"name":"sprDynamitePack","order":57,"path":"sprites/sprDynamitePack/sprDynamitePack.yy",},
     {"name":"sprEel","order":8,"path":"sprites/sprEel/sprEel.yy",},
     {"name":"sprFatheadMinnow","order":9,"path":"sprites/sprFatheadMinnow/sprFatheadMinnow.yy",},
     {"name":"sprFishButton","order":2,"path":"sprites/sprFishButton/sprFishButton.yy",},
