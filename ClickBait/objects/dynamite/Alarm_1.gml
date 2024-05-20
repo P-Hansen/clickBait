@@ -1,7 +1,7 @@
 /// @description explode
 
-var range = irandom_range(spawnRange[0], spawnRange[1]);
-for(var i = 0; i <= range; i++){
+var range = irandom_range(global.dynamiteSpawnRange[0], global.dynamiteSpawnRange[1]);
+for(var i = 1; i <= range; i++){
 	var roll = irandom_range(1, 100);
 	
 	if(roll <= fishOdds[4]){
@@ -29,4 +29,5 @@ for(var i = 0; i <= range; i++){
 	fish.image_angle = -135;
 }
 
+audio_play_sound(sfxWaterExplosion, 1, 0);
 instance_destroy(self);

@@ -122,6 +122,7 @@
     {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"id":{"name":"scriptsJSON","path":"scripts/scriptsJSON/scriptsJSON.yy",},},
     {"id":{"name":"scriptsWater","path":"scripts/scriptsWater/scriptsWater.yy",},},
+    {"id":{"name":"sfxWaterExplosion","path":"sounds/sfxWaterExplosion/sfxWaterExplosion.yy",},},
     {"id":{"name":"sprBitterling","path":"sprites/sprBitterling/sprBitterling.yy",},},
     {"id":{"name":"sprBlackBass","path":"sprites/sprBlackBass/sprBlackBass.yy",},},
     {"id":{"name":"sprBlueGill","path":"sprites/sprBlueGill/sprBlueGill.yy",},},
