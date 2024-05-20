@@ -7,6 +7,7 @@ global.money = 0;
 global.water = [stick, weeds, frog, fatheadMinnow, catfish];
 global.fishOdds = [50, 30, 14, 4, 2];
 global.waterColour = #FFFFFF; //white
+global.buttonQueue = noone;
 
 global.trash = 100;
 

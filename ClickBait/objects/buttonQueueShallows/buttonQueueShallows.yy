@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"buttonQueue",
+  "%Name":"buttonQueueShallows",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"buttonQueue",
+  "name":"buttonQueueShallows",
   "overriddenProperties":[],
   "parent":{
-    "name":"middleDepth",
-    "path":"folders/Objects/middleDepth.yy",
+    "name":"shallows",
+    "path":"folders/Objects/shallows.yy",
   },
   "parentObjectId":null,
   "persistent":false,

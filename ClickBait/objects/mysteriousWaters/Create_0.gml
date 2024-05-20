@@ -10,5 +10,6 @@ array_shuffle_ext(waterOdds);
 fishOdds = [20, 20, 20, 20, 20];
 aloneFlag = true;
 colourHex = #5543CB;
+queue = buttonQueueMysteriousWater;
 
 fishIds = fishFromWater("mysteriousWaters");
