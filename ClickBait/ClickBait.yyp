@@ -44,6 +44,7 @@
   "resources":[
     {"id":{"name":"fontPixel","path":"fonts/fontPixel/fontPixel.yy",},},
     {"id":{"name":"fontReward","path":"fonts/fontReward/fontReward.yy",},},
+    {"id":{"name":"bassDynamiteUnlockButton","path":"objects/bassDynamiteUnlockButton/bassDynamiteUnlockButton.yy",},},
     {"id":{"name":"bassOddsUpButton","path":"objects/bassOddsUpButton/bassOddsUpButton.yy",},},
     {"id":{"name":"bassValueUpButton","path":"objects/bassValueUpButton/bassValueUpButton.yy",},},
     {"id":{"name":"bitterling","path":"objects/bitterling/bitterling.yy",},},

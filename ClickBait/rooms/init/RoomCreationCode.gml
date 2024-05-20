@@ -14,6 +14,6 @@ global.trash = 100;
 global.autoFishSpeed = room_speed*2;
 global.valueMultiplyer = 1;
 global.discount = 1;
-global.dynamiteSpawnRange = [1, 5];
+global.dynamiteSpawnRange = [1, 3];
 
 room_goto(rmMenu);

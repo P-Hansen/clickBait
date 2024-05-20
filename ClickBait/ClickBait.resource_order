@@ -26,6 +26,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fontPixel","order":1,"path":"fonts/fontPixel/fontPixel.yy",},
+    {"name":"bassDynamiteUnlockButton","order":19,"path":"objects/bassDynamiteUnlockButton/bassDynamiteUnlockButton.yy",},
     {"name":"bassOddsUpButton","order":16,"path":"objects/bassOddsUpButton/bassOddsUpButton.yy",},
     {"name":"bassValueUpButton","order":18,"path":"objects/bassValueUpButton/bassValueUpButton.yy",},
     {"name":"bitterling","order":18,"path":"objects/bitterling/bitterling.yy",},
