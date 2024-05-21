@@ -1,6 +1,6 @@
 /// @description Insert description here
 event_inherited();
-scale = 5;
+scale = 3;
 image_xscale = scale;
 image_yscale = scale;
 
