@@ -8,8 +8,8 @@
   "name":"buttonQueueDeepWater",
   "overriddenProperties":[],
   "parent":{
-    "name":"middleDepth",
-    "path":"folders/Objects/middleDepth.yy",
+    "name":"deepWater",
+    "path":"folders/Objects/deepWater.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -11,5 +11,8 @@ speed = 10;
 turn = false;
 numberColour = c_white;
 numberSize = 1;
+visibleFlag = true
+flashCount = 15;
 
 alarm[1] = room_speed*0.2;
+alarm[2] = room_speed*5;

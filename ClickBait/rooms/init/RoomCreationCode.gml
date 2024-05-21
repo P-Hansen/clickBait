@@ -1,6 +1,6 @@
 randomize();
 draw_set_font(fontPixel);
-audio_master_gain(0.1);
+audio_master_gain(0.2);
 global.dataArray = importJson("fishData.txt");
 show_debug_message(global.dataArray);
 
