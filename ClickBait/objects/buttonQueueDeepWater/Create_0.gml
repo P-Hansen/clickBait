@@ -1,6 +1,10 @@
 /// @description Insert description here
 
-buttons = [];
+buttons = [cCarpValueUpButton,
+	gizzardShadValueUpButton,
+	pumpkinseedFishValueUpButton,
+	kingSalmonValueUpButton,
+	goldenTenchValueUpButton];
 yOffset = 50;
 
 for(var i = 0; i < array_length(buttons); i++){
