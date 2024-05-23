@@ -1,6 +1,6 @@
 /// @description Insert description here
 
-buttons = [cCarpValueUpButton,
+buttons = [cCarpValueUpButton, cCarpDynamiteCountUpButton,
 	gizzardShadValueUpButton,
 	pumpkinseedFishValueUpButton,
 	kingSalmonValueUpButton,

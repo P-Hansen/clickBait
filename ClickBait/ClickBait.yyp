@@ -61,6 +61,7 @@
     {"id":{"name":"buttonQueueOpenWater","path":"objects/buttonQueueOpenWater/buttonQueueOpenWater.yy",},},
     {"id":{"name":"buttonQueueShallows","path":"objects/buttonQueueShallows/buttonQueueShallows.yy",},},
     {"id":{"name":"catfish","path":"objects/catfish/catfish.yy",},},
+    {"id":{"name":"cCarpDynamiteCountUpButton","path":"objects/cCarpDynamiteCountUpButton/cCarpDynamiteCountUpButton.yy",},},
     {"id":{"name":"cCarpValueUpButton","path":"objects/cCarpValueUpButton/cCarpValueUpButton.yy",},},
     {"id":{"name":"chub","path":"objects/chub/chub.yy",},},
     {"id":{"name":"crappie","path":"objects/crappie/crappie.yy",},},
