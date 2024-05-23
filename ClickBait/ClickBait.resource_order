@@ -60,6 +60,7 @@
     {"name":"goby","order":2,"path":"objects/goby/goby.yy",},
     {"name":"gobyValueUpButton","order":7,"path":"objects/gobyValueUpButton/gobyValueUpButton.yy",},
     {"name":"goldenTench","order":2,"path":"objects/goldenTench/goldenTench.yy",},
+    {"name":"goldenTenchMultiplyerUpButton","order":17,"path":"objects/goldenTenchMultiplyerUpButton/goldenTenchMultiplyerUpButton.yy",},
     {"name":"goldenTenchValueUpButton","order":11,"path":"objects/goldenTenchValueUpButton/goldenTenchValueUpButton.yy",},
     {"name":"goldfish","order":2,"path":"objects/goldfish/goldfish.yy",},
     {"name":"grass","order":6,"path":"objects/grass/grass.yy",},

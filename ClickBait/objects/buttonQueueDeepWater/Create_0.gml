@@ -4,7 +4,7 @@ buttons = [cCarpValueUpButton, cCarpDynamiteCountUpButton,
 	gizzardShadValueUpButton, gizzardShadStunUpButton,
 	pumpkinseedFishValueUpButton, pumpkinseedExplosiveMinButton, pumpkinseedExplosiveMaxButton,
 	kingSalmonValueUpButton, kingSalmonTossRateButton,
-	goldenTenchValueUpButton];
+	goldenTenchValueUpButton, goldenTenchMultiplyerUpButton];
 yOffset = 50;
 
 for(var i = 0; i < array_length(buttons); i++){

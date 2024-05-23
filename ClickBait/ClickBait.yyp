@@ -82,6 +82,7 @@
     {"id":{"name":"goby","path":"objects/goby/goby.yy",},},
     {"id":{"name":"gobyValueUpButton","path":"objects/gobyValueUpButton/gobyValueUpButton.yy",},},
     {"id":{"name":"goldenTench","path":"objects/goldenTench/goldenTench.yy",},},
+    {"id":{"name":"goldenTenchMultiplyerUpButton","path":"objects/goldenTenchMultiplyerUpButton/goldenTenchMultiplyerUpButton.yy",},},
     {"id":{"name":"goldenTenchValueUpButton","path":"objects/goldenTenchValueUpButton/goldenTenchValueUpButton.yy",},},
     {"id":{"name":"goldfish","path":"objects/goldfish/goldfish.yy",},},
     {"id":{"name":"grass","path":"objects/grass/grass.yy",},},
