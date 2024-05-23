@@ -15,4 +15,4 @@ visibleFlag = true
 flashCount = 15;
 
 alarm[1] = room_speed*0.2;
-alarm[2] = room_speed*5;
+alarm[2] = global.stunLength;

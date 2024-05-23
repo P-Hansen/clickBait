@@ -19,5 +19,5 @@ for(var i = 0; i < array_length(global.water); i++){
 	array_push(fishOdds, odds);
 }
 
-alarm[1] = room_speed*2;
+alarm[1] = global.fuzeLength;
 alarm[2] = room_speed*0.2;

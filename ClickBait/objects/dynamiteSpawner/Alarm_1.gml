@@ -2,4 +2,4 @@
 
 instance_create_depth(x, y, depth, dynamite);
 
-alarm[1] = room_speed*5;
+alarm[1] = global.dynamiteThrowSpeed;

@@ -16,5 +16,8 @@ global.autoFishSpeed = room_speed*2;
 global.valueMultiplyer = 1;
 global.discount = 1;
 global.dynamiteSpawnRange = [1, 3];
+global.dynamiteThrowSpeed = room_speed*5;
+global.fuzeLength = room_speed*2;
+global.stunLength =  room_speed*5;
 
 room_goto(rmMenu);
