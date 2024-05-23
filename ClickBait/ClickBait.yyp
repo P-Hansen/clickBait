@@ -89,6 +89,7 @@
     {"id":{"name":"greenSunfish","path":"objects/greenSunfish/greenSunfish.yy",},},
     {"id":{"name":"highFinBandedShark","path":"objects/highFinBandedShark/highFinBandedShark.yy",},},
     {"id":{"name":"KingSalmon","path":"objects/KingSalmon/KingSalmon.yy",},},
+    {"id":{"name":"kingSalmonTossRateButton","path":"objects/kingSalmonTossRateButton/kingSalmonTossRateButton.yy",},},
     {"id":{"name":"kingSalmonValueUpButton","path":"objects/kingSalmonValueUpButton/kingSalmonValueUpButton.yy",},},
     {"id":{"name":"largemouthBass","path":"objects/largemouthBass/largemouthBass.yy",},},
     {"id":{"name":"Loach","path":"objects/Loach/Loach.yy",},},

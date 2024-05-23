@@ -3,7 +3,7 @@
 buttons = [cCarpValueUpButton, cCarpDynamiteCountUpButton,
 	gizzardShadValueUpButton, gizzardShadStunUpButton,
 	pumpkinseedFishValueUpButton, pumpkinseedExplosiveMinButton, pumpkinseedExplosiveMaxButton,
-	kingSalmonValueUpButton,
+	kingSalmonValueUpButton, kingSalmonTossRateButton,
 	goldenTenchValueUpButton];
 yOffset = 50;
 

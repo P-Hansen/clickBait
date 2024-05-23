@@ -67,6 +67,7 @@
     {"name":"greenSunfish","order":3,"path":"objects/greenSunfish/greenSunfish.yy",},
     {"name":"highFinBandedShark","order":2,"path":"objects/highFinBandedShark/highFinBandedShark.yy",},
     {"name":"KingSalmon","order":1,"path":"objects/KingSalmon/KingSalmon.yy",},
+    {"name":"kingSalmonTossRateButton","order":16,"path":"objects/kingSalmonTossRateButton/kingSalmonTossRateButton.yy",},
     {"name":"kingSalmonValueUpButton","order":10,"path":"objects/kingSalmonValueUpButton/kingSalmonValueUpButton.yy",},
     {"name":"largemouthBass","order":1,"path":"objects/largemouthBass/largemouthBass.yy",},
     {"name":"Loach","order":3,"path":"objects/Loach/Loach.yy",},
