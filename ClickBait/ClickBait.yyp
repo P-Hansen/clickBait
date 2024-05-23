@@ -77,6 +77,7 @@
     {"id":{"name":"fishClass","path":"objects/fishClass/fishClass.yy",},},
     {"id":{"name":"frog","path":"objects/frog/frog.yy",},},
     {"id":{"name":"gizzardShad","path":"objects/gizzardShad/gizzardShad.yy",},},
+    {"id":{"name":"gizzardShadStunUpButton","path":"objects/gizzardShadStunUpButton/gizzardShadStunUpButton.yy",},},
     {"id":{"name":"gizzardShadValueUpButton","path":"objects/gizzardShadValueUpButton/gizzardShadValueUpButton.yy",},},
     {"id":{"name":"goby","path":"objects/goby/goby.yy",},},
     {"id":{"name":"gobyValueUpButton","path":"objects/gobyValueUpButton/gobyValueUpButton.yy",},},

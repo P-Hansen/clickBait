@@ -1,7 +1,7 @@
 /// @description Insert description here
 
 buttons = [cCarpValueUpButton, cCarpDynamiteCountUpButton,
-	gizzardShadValueUpButton,
+	gizzardShadValueUpButton, gizzardShadStunUpButton,
 	pumpkinseedFishValueUpButton,
 	kingSalmonValueUpButton,
 	goldenTenchValueUpButton];
