@@ -33,3 +33,8 @@ if _colliding {
 	x += lengthdir_x(5, _dir);
 	y += lengthdir_y(5, _dir);
 }
+
+//dragging net
+dragNet.x = x;
+dragNet.y = y;
+dragNet.image_angle = image_angle;

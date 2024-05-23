@@ -5,5 +5,6 @@ if(disabled == false and mouse_x > _x and mouse_x < width and mouse_y > _y and m
 	alarm[1] = room_speed*0.15;
 	fishObject.money -= cost;
 	instance_create_depth(960, 480, 10, dynamiteSpawner);
+	global.dynamiteCount += 15;
 	instance_destroy(self);
 }
