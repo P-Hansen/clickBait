@@ -80,6 +80,8 @@
     {"name":"pearch","order":24,"path":"objects/pearch/pearch.yy",},
     {"name":"piranha","order":1,"path":"objects/piranha/piranha.yy",},
     {"name":"plecostomus","order":2,"path":"objects/plecostomus/plecostomus.yy",},
+    {"name":"pumpkinseedExplosiveMaxButton","order":15,"path":"objects/pumpkinseedExplosiveMaxButton/pumpkinseedExplosiveMaxButton.yy",},
+    {"name":"pumpkinseedExplosiveMinButton","order":14,"path":"objects/pumpkinseedExplosiveMinButton/pumpkinseedExplosiveMinButton.yy",},
     {"name":"pumpkinseedFish","order":5,"path":"objects/pumpkinseedFish/pumpkinseedFish.yy",},
     {"name":"pumpkinseedFishValueUpButton","order":9,"path":"objects/pumpkinseedFishValueUpButton/pumpkinseedFishValueUpButton.yy",},
     {"name":"rainbowTrout","order":26,"path":"objects/rainbowTrout/rainbowTrout.yy",},
