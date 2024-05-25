@@ -22,5 +22,6 @@ global.dynamiteThrowSpeed = room_speed*5;
 global.fuzeLength = room_speed*2;
 global.stunLength =  room_speed*5;
 global.dynamiteCount = 0;
+global.dynamiteUnlocked = false;
 
 room_goto(rmMenu);
