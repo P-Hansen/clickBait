@@ -79,6 +79,7 @@
     {"name":"net","order":31,"path":"objects/net/net.yy",},
     {"name":"number","order":5,"path":"objects/number/number.yy",},
     {"name":"numberTrash","order":8,"path":"objects/numberTrash/numberTrash.yy",},
+    {"name":"numberWithFish","order":32,"path":"objects/numberWithFish/numberWithFish.yy",},
     {"name":"paradiseFish","order":3,"path":"objects/paradiseFish/paradiseFish.yy",},
     {"name":"pearch","order":24,"path":"objects/pearch/pearch.yy",},
     {"name":"piranha","order":1,"path":"objects/piranha/piranha.yy",},

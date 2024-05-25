@@ -103,6 +103,7 @@
     {"id":{"name":"net","path":"objects/net/net.yy",},},
     {"id":{"name":"number","path":"objects/number/number.yy",},},
     {"id":{"name":"numberTrash","path":"objects/numberTrash/numberTrash.yy",},},
+    {"id":{"name":"numberWithFish","path":"objects/numberWithFish/numberWithFish.yy",},},
     {"id":{"name":"openWater","path":"objects/openWater/openWater.yy",},},
     {"id":{"name":"paradiseFish","path":"objects/paradiseFish/paradiseFish.yy",},},
     {"id":{"name":"pearch","path":"objects/pearch/pearch.yy",},},
