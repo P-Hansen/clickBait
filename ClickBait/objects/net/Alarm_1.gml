@@ -1,4 +1,4 @@
-/// @description catch
+/// @description old catch
 
 var distance = point_distance(startingX, startingY, x, y);
 startingX = x;

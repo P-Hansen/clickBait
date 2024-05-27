@@ -23,5 +23,7 @@ global.fuzeLength = room_speed*2;
 global.stunLength =  room_speed*5;
 global.dynamiteCount = 0;
 global.dynamiteUnlocked = false;
+//open water
+global.netCatchOdds = 5;
 
 room_goto(rmMenu);
