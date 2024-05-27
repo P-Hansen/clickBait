@@ -1,6 +1,10 @@
 /// @description Insert description here
 
-buttons = [greenSunfishValueUpButton, greenSunfishNetFishingOddsUpButton];
+buttons = [eelValueUpButton,
+		greenSunfishValueUpButton, greenSunfishNetFishingOddsUpButton,
+		highFinBandedSharkValueUpButton,
+		redShinerValueUpButton,
+		smeltValueUpButton];
 yOffset = 50;
 
 for(var i = 0; i < array_length(buttons); i++){
