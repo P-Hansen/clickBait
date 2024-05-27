@@ -88,6 +88,8 @@
     {"id":{"name":"grass","path":"objects/grass/grass.yy",},},
     {"id":{"name":"grassCarp","path":"objects/grassCarp/grassCarp.yy",},},
     {"id":{"name":"greenSunfish","path":"objects/greenSunfish/greenSunfish.yy",},},
+    {"id":{"name":"greenSunfishNetFishingOddsUpButton","path":"objects/greenSunfishNetFishingOddsUpButton/greenSunfishNetFishingOddsUpButton.yy",},},
+    {"id":{"name":"greenSunfishValueUpButton","path":"objects/greenSunfishValueUpButton/greenSunfishValueUpButton.yy",},},
     {"id":{"name":"highFinBandedShark","path":"objects/highFinBandedShark/highFinBandedShark.yy",},},
     {"id":{"name":"KingSalmon","path":"objects/KingSalmon/KingSalmon.yy",},},
     {"id":{"name":"kingSalmonTossRateButton","path":"objects/kingSalmonTossRateButton/kingSalmonTossRateButton.yy",},},

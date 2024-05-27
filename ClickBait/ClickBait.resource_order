@@ -66,6 +66,8 @@
     {"name":"grass","order":6,"path":"objects/grass/grass.yy",},
     {"name":"grassCarp","order":20,"path":"objects/grassCarp/grassCarp.yy",},
     {"name":"greenSunfish","order":3,"path":"objects/greenSunfish/greenSunfish.yy",},
+    {"name":"greenSunfishNetFishingOddsUpButton","order":8,"path":"objects/greenSunfishNetFishingOddsUpButton/greenSunfishNetFishingOddsUpButton.yy",},
+    {"name":"greenSunfishValueUpButton","order":7,"path":"objects/greenSunfishValueUpButton/greenSunfishValueUpButton.yy",},
     {"name":"highFinBandedShark","order":2,"path":"objects/highFinBandedShark/highFinBandedShark.yy",},
     {"name":"KingSalmon","order":1,"path":"objects/KingSalmon/KingSalmon.yy",},
     {"name":"kingSalmonTossRateButton","order":16,"path":"objects/kingSalmonTossRateButton/kingSalmonTossRateButton.yy",},
