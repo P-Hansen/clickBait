@@ -13,6 +13,29 @@ global.buttonQueue = noone;
 global.trash = 100;
 
 //middle depth
+global.gobyCount = 1;
+global.gobyCost = 1;
+global.bassOddsCount = 1;
+global.bassOddsCost = 1;
+global.bassValueCount = 1;
+global.bassValueCost = 1;
+global.tilapiaOddsCost = 1;
+global.tilapiaOddsCount = 1;
+global.tilapiaMultiplyerCost = 1;
+global.tilapiaMultiplyerCount = 1;
+global.tilapiaValueCost = 1;
+global.tilapiaValueCount = 1;
+global.troutAutofishCount = 1;
+global.troutAutofishCost = 1;
+global.troutOddsCount = 1;
+global.troutOddsCost = 1;
+global.troutValueCount = 1;
+global.troutValueCost = 1;
+global.walleyeOddsCount = 1;
+global.walleyeOddsCost = 1;
+global.walleyeValueCount = 1;
+global.walleyeValueCost = 1;
+
 global.autoFishSpeed = room_speed*2;
 global.valueMultiplyer = 1;
 global.discount = 1;
@@ -25,5 +48,6 @@ global.dynamiteCount = 0;
 global.dynamiteUnlocked = false;
 //open water
 global.netCatchOdds = 5;
+
 
 room_goto(rmMenu);
