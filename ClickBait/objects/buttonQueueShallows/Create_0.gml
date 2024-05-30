@@ -1,6 +1,9 @@
 /// @description Insert description here
 
-buttons = [catfishValueMultiplyerButton];
+buttons = [fatheadMinnowValueUpButton,
+			frogValueUpButton,
+			catfishValueUpButton, catfishValueMultiplyerButton,
+			];
 yOffset = 50;
 
 for(var i = 0; i < array_length(buttons); i++){

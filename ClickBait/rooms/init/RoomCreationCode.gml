@@ -12,8 +12,14 @@ global.buttonQueue = noone;
 
 global.trash = 100;
 //shallows
+global.catfishValueCount = 1;
+global.catfishValueCost = 1;
 global.catfishMultiplyerCount = 1;
 global.catfishMultiplyerCost = 1;
+global.fatheadMinnowValueCount = 1;
+global.fatheadMinnowValueCost = 1;
+global.frogValueCount = 1;
+global.frogValueCost = 1;
 
 //open water
 global.netCatchOdds = 5;
