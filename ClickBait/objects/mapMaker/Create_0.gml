@@ -38,6 +38,10 @@ var rollx = irandom_range(0, room_width);
 var rolly = irandom_range(0, room_height);
 mysteryPool(rollx, rolly);
 
+var tile = instance_nearest(room_width/2, room_height/2, openWater);
+var boat = instance_create_layer(tile.x, tile.y, "Instances", boat1Top);
+
+
 /*
 //finding single tiles
 with(openWater){
