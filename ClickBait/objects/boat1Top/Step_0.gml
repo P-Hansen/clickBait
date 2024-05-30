@@ -35,6 +35,8 @@ if _colliding {
 }
 
 //dragging net
-dragNet.x = x;
-dragNet.y = y;
-dragNet.image_angle = image_angle;
+if(instance_exists(dragNet)){
+	dragNet.x = x;
+	dragNet.y = y;
+	dragNet.image_angle = image_angle;
+}

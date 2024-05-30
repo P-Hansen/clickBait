@@ -22,6 +22,7 @@ global.frogValueCount = 1;
 global.frogValueCost = 1;
 
 //open water
+global.netFlag = false;
 global.netCatchOdds = 5;
 //middle depth
 global.gobyCount = 1;

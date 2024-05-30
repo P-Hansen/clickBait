@@ -1,7 +1,7 @@
 /// @description Insert description here
 
 buttons = [fatheadMinnowValueUpButton,
-			frogValueUpButton,
+			frogValueUpButton, frogNetUnlockButton,
 			catfishValueUpButton, catfishValueMultiplyerButton,
 			];
 yOffset = 50;
