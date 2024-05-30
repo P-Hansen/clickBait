@@ -9,8 +9,8 @@ data = findObject(2);
 direction = 120;
 speed = 10;
 turn = false;
-value = 1;
-numberColour = c_white;
+value = 0;
+numberColour = c_black;
 numberSize = 1;
 
 alarm[1] = room_speed*0.2;

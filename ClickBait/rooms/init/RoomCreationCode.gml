@@ -11,7 +11,12 @@ global.waterColour = #FFFFFF; //white
 global.buttonQueue = noone;
 
 global.trash = 100;
+//shallows
+global.catfishMultiplyerCount = 1;
+global.catfishMultiplyerCost = 1;
 
+//open water
+global.netCatchOdds = 5;
 //middle depth
 global.gobyCount = 1;
 global.gobyCost = 1;
@@ -46,8 +51,7 @@ global.fuzeLength = room_speed*2;
 global.stunLength =  room_speed*5;
 global.dynamiteCount = 0;
 global.dynamiteUnlocked = false;
-//open water
-global.netCatchOdds = 5;
+
 
 
 room_goto(rmMenu);
