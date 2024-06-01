@@ -22,6 +22,22 @@ global.frogValueCount = 1;
 global.frogValueCost = 1;
 
 //open water
+global.eelValueCount = 1;
+global.eelValueCost = 1;
+global.greenSunfishNetOddsCount = 1;
+global.greenSunfishNetOddsCost = 1;
+global.greenSunfishValueCount = 1;
+global.greenSunfishValueCost = 1;
+global.highFinValueCount = 1;
+global.highFinValueCost = 1;
+global.highFinMultiplyerCount = 1;
+global.highFinMultiplyerCost = 1;
+global.redShinerValueCount = 1;
+global.redShinerValueCost = 1;
+global.smeltValueCount = 1;
+global.smeltValueCost = 1;
+
+
 global.netFlag = false;
 global.netCatchOdds = 5;
 //middle depth
