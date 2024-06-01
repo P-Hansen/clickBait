@@ -68,6 +68,26 @@ global.autoFishSpeed = room_speed*2;
 global.valueMultiplyer = 1;
 global.discount = 1;
 //deep water
+global.cCarpDynamiteCost = 1;
+global.cCarpValueCount = 1;
+global.cCarpValueCost = 1;
+global.gizzardShadStunCount = 1;
+global.gizzardShadStunCost = 1;
+global.gizzardShadValueCount = 1;
+global.gizzardShadValueCost = 1;
+global.goldenTenchMultiplyerCount = 1;
+global.goldenTenchMultiplyerCost = 1;
+global.goldenTenchValueCount = 1;
+global.goldenTenchValueCost = 1;
+global.salmonTossCount = 1;
+global.salmonTossCost = 1;
+global.salmonValueCount = 1;
+global.salmonValueCost = 1;
+global.pumpkinseedExplosiveCount = 1;
+global.pumpkinseedExplosiveCost = 1;
+global.pumpkinseedValueCount = 1;
+global.pumpkinseedValueCost = 1;
+
 global.dynamiteSpawnRange = [1, 3];
 global.dynamiteThrowSpeed = room_speed*5;
 global.fuzeLength = room_speed*2;
