@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"dingTop",
-  "eventList":[],
+  "%Name":"dingyTop",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"dingTop",
+  "name":"dingyTop",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"boat1Top",
+    "path":"objects/boat1Top/boat1Top.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprDingyTop",
+    "path":"sprites/sprDingyTop/sprDingyTop.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

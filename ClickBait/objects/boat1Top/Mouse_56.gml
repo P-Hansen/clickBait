@@ -2,5 +2,5 @@
 endX = mouse_x;
 endY = mouse_y;
 direction = point_direction(x, y, endX, endY);
-speed = 3;
+speed = boatSpeed;
 image_angle = direction;

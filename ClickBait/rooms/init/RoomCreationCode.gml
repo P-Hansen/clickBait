@@ -9,7 +9,8 @@ global.water = [stick, weeds, frog, fatheadMinnow, catfish];
 global.fishOdds = [50, 30, 14, 4, 2];
 global.waterColour = #FFFFFF; //white
 global.buttonQueue = noone;
-global.sideBoat = fishingBoatSide;
+global.boatTop = dingyTop;
+global.boatSide = dingySide;
 
 global.trash = 100;
 //shallows

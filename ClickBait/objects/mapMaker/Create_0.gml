@@ -5,6 +5,7 @@ xStart = random(1000);
 inc = 0.06;
 TILESIZE = 16;
 
+
 //places tiles based on perlin noise
 X = xStart;
 for(var _x = 0; _x < room_width; _x += TILESIZE){
@@ -39,7 +40,9 @@ var rolly = irandom_range(0, room_height);
 mysteryPool(rollx, rolly);
 
 var tile = instance_nearest(room_width/2, room_height/2, openWater);
-var boat = instance_create_layer(tile.x, tile.y, "Instances", boat1Top);
+boatX = tile.x;
+boatY = tile.y;
+boatAngle = 0;
 
 
 /*

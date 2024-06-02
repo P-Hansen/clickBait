@@ -1,6 +1,6 @@
 /// @description Insert description here
 
-water = instance_place(boat1Top.x, boat1Top.y, openWater);
+water = instance_place(global.boatTop.x, global.boatTop.y, openWater);
 currentWaterName = water.name;
 
 if(position_meeting(device_mouse_x_to_gui(0), device_mouse_y_to_gui(0), id)){
