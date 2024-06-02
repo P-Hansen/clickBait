@@ -105,6 +105,7 @@
     {"name":"pumpkinseedFishValueUpButton","order":9,"path":"objects/pumpkinseedFishValueUpButton/pumpkinseedFishValueUpButton.yy",},
     {"name":"rainbowTrout","order":26,"path":"objects/rainbowTrout/rainbowTrout.yy",},
     {"name":"redShiner","order":4,"path":"objects/redShiner/redShiner.yy",},
+    {"name":"redShinerRowboatButton","order":14,"path":"objects/redShinerRowboatButton/redShinerRowboatButton.yy",},
     {"name":"redShinerValueUpButton","order":11,"path":"objects/redShinerValueUpButton/redShinerValueUpButton.yy",},
     {"name":"rod1","order":4,"path":"objects/rod1/rod1.yy",},
     {"name":"rosette","order":27,"path":"objects/rosette/rosette.yy",},

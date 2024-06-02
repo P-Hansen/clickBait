@@ -3,7 +3,7 @@
 buttons = [eelValueUpButton,
 		greenSunfishValueUpButton, greenSunfishNetFishingOddsUpButton,
 		highFinBandedSharkValueUpButton, highFinValueMultiplyerButton,
-		redShinerValueUpButton,
+		redShinerValueUpButton, redShinerRowboatButton,
 		smeltValueUpButton];
 yOffset = 50;
 
