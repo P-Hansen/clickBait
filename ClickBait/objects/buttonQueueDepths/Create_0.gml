@@ -1,6 +1,6 @@
 /// @description Insert description here
 
-buttons = [];
+buttons = [blackBassFishingBoatButton];
 yOffset = 50;
 
 for(var i = 0; i < array_length(buttons); i++){

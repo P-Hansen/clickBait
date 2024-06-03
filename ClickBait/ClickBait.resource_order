@@ -31,6 +31,7 @@
     {"name":"bassValueUpButton","order":18,"path":"objects/bassValueUpButton/bassValueUpButton.yy",},
     {"name":"bitterling","order":18,"path":"objects/bitterling/bitterling.yy",},
     {"name":"blackBass","order":1,"path":"objects/blackBass/blackBass.yy",},
+    {"name":"blackBassFishingBoatButton","order":7,"path":"objects/blackBassFishingBoatButton/blackBassFishingBoatButton.yy",},
     {"name":"bluegill","order":5,"path":"objects/bluegill/bluegill.yy",},
     {"name":"boat1Side","order":2,"path":"objects/boat1Side/boat1Side.yy",},
     {"name":"boatMaker","order":35,"path":"objects/boatMaker/boatMaker.yy",},

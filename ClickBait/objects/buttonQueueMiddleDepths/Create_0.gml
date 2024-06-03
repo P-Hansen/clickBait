@@ -3,7 +3,7 @@
 buttons = [gobyValueUpButton, troutOddsUpButton,
 	troutValueUpButton, troutAutoFishUpButton, tilapiaOddsUpButton,
 	tilapiaValueUpButton, tilapiaValueMultiplyerButton, walleyeOddsUpButton,
-	walleyeValueUpButton, bassOddsUpButton,
+	walleyeValueUpButton, walleyeSpeedboatButton, bassOddsUpButton,
 	bassValueUpButton, bassDynamiteUnlockButton];
 yOffset = 50;
 
