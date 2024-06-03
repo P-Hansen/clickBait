@@ -39,7 +39,7 @@ global.redShinerValueCost = 1;
 global.smeltValueCount = 1;
 global.smeltValueCost = 1;
 
-
+global.rowboatFlag = false;
 global.netFlag = false;
 global.netCatchOdds = 5;
 //middle depth
@@ -66,6 +66,7 @@ global.walleyeOddsCost = 1;
 global.walleyeValueCount = 1;
 global.walleyeValueCost = 1;
 
+global.speedboatFlag = false;
 global.autoFishSpeed = room_speed*2;
 global.valueMultiplyer = 1;
 global.discount = 1;

@@ -154,6 +154,7 @@
     {"id":{"name":"walleye","path":"objects/walleye/walleye.yy",},},
     {"id":{"name":"walleyeDiscountButton","path":"objects/walleyeDiscountButton/walleyeDiscountButton.yy",},},
     {"id":{"name":"walleyeOddsUpButton","path":"objects/walleyeOddsUpButton/walleyeOddsUpButton.yy",},},
+    {"id":{"name":"walleyeSpeedboatButton","path":"objects/walleyeSpeedboatButton/walleyeSpeedboatButton.yy",},},
     {"id":{"name":"walleyeValueUpButton","path":"objects/walleyeValueUpButton/walleyeValueUpButton.yy",},},
     {"id":{"name":"weeds","path":"objects/weeds/weeds.yy",},},
     {"id":{"name":"init","path":"rooms/init/init.yy",},},

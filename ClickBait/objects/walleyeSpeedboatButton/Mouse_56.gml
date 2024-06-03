@@ -9,11 +9,11 @@ if(disabled == false and mouse_x > _x and mouse_x < width and mouse_y > _y and m
 	var boatY = oldBoat.y;
 	instance_destroy(oldBoat);
 	//create new boat and replace global variables for spawners
-	instance_create_depth(boatX, boatY, depth, boat1Side);
-	global.boatTop = boat1Top;
-	global.boatSide = boat1Side;
+	instance_create_depth(boatX, boatY, depth, speedBoatSide);
+	global.boatTop = speedBoatTop;
+	global.boatSide = speedBoatSide;
 	//take money keep button from spawning and destroy button
 	fishObject.money -= cost;
-	global.rowboatFlag = true;
+	global.speedboatFlag = true;
 	instance_destroy(self);
 }

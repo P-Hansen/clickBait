@@ -129,6 +129,7 @@
     {"name":"walleye","order":3,"path":"objects/walleye/walleye.yy",},
     {"name":"walleyeDiscountButton","order":17,"path":"objects/walleyeDiscountButton/walleyeDiscountButton.yy",},
     {"name":"walleyeOddsUpButton","order":13,"path":"objects/walleyeOddsUpButton/walleyeOddsUpButton.yy",},
+    {"name":"walleyeSpeedboatButton","order":20,"path":"objects/walleyeSpeedboatButton/walleyeSpeedboatButton.yy",},
     {"name":"walleyeValueUpButton","order":15,"path":"objects/walleyeValueUpButton/walleyeValueUpButton.yy",},
     {"name":"weeds","order":2,"path":"objects/weeds/weeds.yy",},
     {"name":"rmBoat","order":1,"path":"rooms/rmBoat/rmBoat.yy",},

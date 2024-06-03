@@ -3,10 +3,10 @@
 cost = 10000;
 colour = c_black;
 disabled = false;
-description = "unlock rowboat";
-fishObject = findObject(9);
-sprite = sprRedShiner;
+description = "unlock speed boat";
+fishObject = findObject(13);
+sprite = sprWalleye;
 
-if(global.rowboatFlag == true){
+if(global.speedboatFlag == true){
 	instance_destroy(self);
 }
