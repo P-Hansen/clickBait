@@ -35,9 +35,12 @@ for(var _x = 0; _x < room_width; _x += TILESIZE){
 	X += inc;
 }
 
+/*
+//mysterious waters
 var rollx = irandom_range(0, room_width);
 var rolly = irandom_range(0, room_height);
 mysteryPool(rollx, rolly);
+*/
 
 var tile = instance_nearest(room_width/2, room_height/2, openWater);
 boatX = tile.x;
