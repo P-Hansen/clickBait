@@ -47,6 +47,11 @@ boatX = tile.x;
 boatY = tile.y;
 boatAngle = 0;
 
+var sandtile = instance_nearest(tile.x, tile.y, sand);
+instance_create_depth(sandtile.x, sandtile.y, depth-10, shop);
+
+var midTile = instance_nearest(100, 100, middleDepth);
+instance_create_depth(midTile.x, midTile.y, depth-10, portal);
 
 /*
 //finding single tiles

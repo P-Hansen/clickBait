@@ -8,7 +8,6 @@
   "instanceCreationOrder":[
     {"name":"inst_8A0031","path":"rooms/rmMap/rmMap.yy",},
     {"name":"inst_14BA9A4F","path":"rooms/rmMap/rmMap.yy",},
-    {"name":"inst_F5812C8","path":"rooms/rmMap/rmMap.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,7 +17,6 @@
     {"$GMRTileLayer":"","%Name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":96,"SerialiseWidth":171,"TileCompressedData":[-16416,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"waterLayer","depth":200,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_14BA9A4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_14BA9A4F","objectId":{"name":"mapMaker","path":"objects/mapMaker/mapMaker.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":16.0,"y":16.0,},
-        {"$GMRInstance":"","%Name":"inst_F5812C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F5812C8","objectId":{"name":"shop","path":"objects/shop/shop.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":272.0,},
       ],"layers":[],"name":"waterLayer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4286544200,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":false,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
