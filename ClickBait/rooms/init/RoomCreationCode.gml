@@ -3,6 +3,7 @@ draw_set_font(fontPixel);
 audio_master_gain(0.2);
 global.dataArray = importJson("fishData.txt");
 show_debug_message(global.dataArray);
+global.enterPortalFlag = false;
 
 global.money = 0;
 global.water = [stick, weeds, frog, fatheadMinnow, catfish];

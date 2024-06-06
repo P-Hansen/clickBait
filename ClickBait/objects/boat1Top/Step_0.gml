@@ -25,6 +25,14 @@ if(keyboard_check(vk_down)){
 	speed = 3;
 }
 
+show_debug_message(distance_to_object(portal));
+
+if(distance_to_object(portal) <= 10){
+	global.enterPortalFlag = true;
+} else {
+	global.enterPortalFlag = false;
+}
+
 //preventing stacking
 var _colliding = place_meeting(x, y, [tileMap]);
 if _colliding {
