@@ -25,9 +25,10 @@ if(keyboard_check(vk_down)){
 	speed = 3;
 }
 
-show_debug_message(distance_to_object(portal));
+var portal1 = instance_nearest(x, y, portal);
+show_debug_message(point_distance(x, y, portal1.x, portal1.y));
 
-if(distance_to_object(portal) <= 10){
+if(point_distance(x, y, portal1.x, portal1.y) <= 75){
 	global.enterPortalFlag = true;
 } else {
 	global.enterPortalFlag = false;
